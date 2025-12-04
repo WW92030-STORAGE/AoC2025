@@ -51,8 +51,9 @@ let LEN:
 
 		HAHAHAH HAHAHAHAHAHAAHAHA!!!11 You thought this was going to be easy???
 		Little do you know that the NTH operator actually must first [laughter] SKIP OVER THE FIRST N ELEMENTS!!!
+		This means that after using it the iterator position actually changes!!! lalamaao lolololol
 
-		This means that it is actually [hiccups from laughter] O(N) instead of O(1) as you previously thought!!!!!
+		This also means that it is actually [hiccups from laughter] O(N) instead of O(1) as you previously thought!!!!!
 		hahahahashasasahahaha
 
 		if you wanted to acakwtual y the nath character of a byte stringsss [hic] you use the as_bytes lmao malmamlmao lmao
