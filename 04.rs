@@ -56,8 +56,8 @@ let number:
 		grid.push(vec![false; input.len()]);
 		
 		let input_bytes = input.as_bytes();
-		for i in 0..input.len() {
-		    grid[lineno as usize][i] = input_bytes[i] == '@' as u8;
+		for i in 0..input.len() { // the type of this kind of range thing is given by the types of the endpoints
+		    grid[lineno as usize][i] = input_bytes[i] == '@' as u8; // this isn't C anymore, this is RUST! where there is no such thing as auto typecasting
 		}
 	}
 	
@@ -67,7 +67,7 @@ let number:
 	// println!("R {}", R);
 	
 	for r in 0..R {
-	    let C = grid[r as usize].len() as i32;
+	    let C = grid[r as usize].len() as i32; // i love the typecasting lmao
 	    // println!("C {}", C);
 	    for c in 0..C {
 	        // println!("{} {} {}", r, c, grid[r as usize][c as usize]);
