@@ -38,6 +38,12 @@ fn main() {
 	let mut res = 0;
 	let mut res2 = 0;
 	
+	/*
+	
+	Tuples are denoted similarly to Python. Thank god for this built-in data type instead of sTd::PaIr<InT, iNt>
+	
+	*/
+	
 	let mut ranges: Vec<(i64, i64)> = Vec::new();
 	
 	// I'VE PLAYED THESE GAMES BEFORE!!!
