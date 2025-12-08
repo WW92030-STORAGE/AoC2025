@@ -1,6 +1,7 @@
 use std::io;
 use std::cmp;
 
+
 /*
 
 Suppose there are N protogens (sentient cyborg anthropomorphic animal hybrids with visor-like faces) in an enclosed space. Protogens performing the same task form groups, however initially all protogens are performing different tasks. Now, let’s say whenever a protogen (or group) completes a task, you assign the aforementioned group (or individual) to do a different one, combining the two aforementioned parties into a larger group. 
