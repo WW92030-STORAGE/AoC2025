@@ -1,6 +1,7 @@
 use std::io;
 use std::cmp;
 
+// The flavortext is copypasted from two shitposts I wrote, one in 2022 and one in 2024.
 
 /*
 
